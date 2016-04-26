@@ -87,14 +87,14 @@
                             <div class="col-sm-6 caption flex rollIn animated">
                                 <a href="#" title="Recent post"><img src='assets/images/phones.jpg' class="serv" alt="Cursuri" /></a>
                                 <a href="#" title="Your title here"><h4>Best blog post</h4></a>
-                                <p>Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus.</p>
+                                <p>Analisis de tu negocio adaptandonos a tus requerimientos para sentar las bases y enfocarnos en tu modelkado.</p>
                                 <a href="#" title="See more" class="more">See more &nbsp;<i class="fa fa-angle-right"></i></a>
                             </div><!--end col-sm-6-->
 
                             <div class="col-sm-6 caption flex rollIn animated">
                                 <a href="#" title="Your title here"><img src='assets/images/chair.jpg' class="serv" alt="Cursuri" /></a>
                                 <a href="#" title="Your title here"><h4>Standard blog post</h4></a>
-                                <p>Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus.</p>
+                                <p>Disenios web responsive donde tu negocio no siga sienbdo mediocre , apuesta por nosotros</p>
                                 <a href="#" title="See more" class="more">See more &nbsp;<i class="fa fa-angle-right"></i></a>
                             </div><!--end col-sm-6-->
                         </div><!--end row-->
@@ -106,14 +106,14 @@
                             <div class="col-sm-6 caption flex rollIn animated">
                                 <a href="#" title=""><img src='assets/images/camera-photos.jpg' class="serv" alt="Cursuri" /></a>
                                 <a href="#" title="Your title here"><h4>Simple blog post</h4></a>
-                                <p>Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus.</p>
+                                <p>Haciendo el codigo de la manera mas legible para ser escalable de acuerdo a tus espectativas.</p>
                                 <a href="#" title="See more" class="more">See more &nbsp;<i class="fa fa-angle-right"></i></a>
                             </div><!--end col-sm-6-->
 
                             <div class="col-sm-6 caption flex rollIn animated">
                                 <a href="#" title="Your title here"><img src='assets/images/brochure.jpg' class="serv" alt="Cursuri" /></a>
                                 <a href="#" title="Your title here"><h4>Another blog post</h4></a>
-                                <p>Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus.</p>
+                                <p>Mantenerlo en produccion con un mantenimiento ideal y responsable protegiendote de ataques intrusos que pueden afectar tu negocio</p>
                                 <a href="#" title="See more" class="more">See more&nbsp;<i class="fa fa-angle-right"></i></a>
                             </div><!--end col-sm-6-->
                         </div><!--end row-->
