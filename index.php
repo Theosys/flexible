@@ -12,9 +12,9 @@
     <link rel='stylesheet' id='fontawesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css?ver=4.4.1' type='text/css' media='all' />
     <link rel='stylesheet' id='style-css'  href='assets/css/new-style.css' type='text/css' media='all' />
     <link rel="stylesheet" href="assets/css/animate.css" type='text/css' media='all'>
-    <script type='text/javascript' src='assets/js/jquery.js'></script>              
+    <script type='text/javascript' src='assets/js/jquery.js'></script>
 </head>
-    
+
 <body>
     <div class="hero-image">
         <div id="home">
@@ -22,14 +22,14 @@
                 <header id="site-header">
                     <div class="row">
                         <nav id="top-nav" class="navbar navbar-default navbar-fixed-top navbar-scroll-changed">
-                              
+
                           <div class="container">
 
                             <div class="col-md-2 col-sm-1 col-xs-12">
                                     <div class="branding">
                                       <a href="#" title="Home is where the heart is" rel="home"><img id="logo" src="assets/images/flexible-logo.png" alt="Home is where the heart is"></a>
                                     </div><!--end branding-->
-                                
+
                                     <div class="navbar-header">
                                         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
                                             <span class="sr-only">Toggle navigation</span>
@@ -42,7 +42,7 @@
 
                             <div class="col-md-10 col-sm-11 col-xs-12">
                                   <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1" aria-expanded="true" style="height: 1px;" role="navigation">
-                                      
+
                                     <div class="menu-primary-menu-container">
                                         <ul id="menu-main-top-navigation" class="menu nav navbar-nav navbar-right">
                                             <li><a href="#home">Home</a></li>
@@ -52,29 +52,29 @@
                                             <li><a href="#contact">Contact</a></li>
                                         </ul>
                                     </div><!--end menu-->
-                                </div><!--end navbar-collapse--> 
+                                </div><!--end navbar-collapse-->
 
-                             </div><!--end col-md-10 col-sm-10 col-xs-12--> 
-                              
+                             </div><!--end col-md-10 col-sm-10 col-xs-12-->
+
                             </div><!--end container-->
                         </nav>
-                           
+
                             </div><!--end row-->
-                        <div class="main-message">  
+                        <div class="main-message">
                             <div class="container">
                                 <h1 class="flex fadeInUp animated">Flexible Landing page</h1>
                                 <p class="description-image flex fadeInUp animated">
                                   A simple and modern one page business theme for your company
                                 </p>
                                 <a class="btn btn-cta-primary btn-cta-blue flex fadeInUp animated" href="#" role="button">Call to action</a>
-                            </div><!--end container-->                         
-                        </div><!--end main-message--> 
+                            </div><!--end container-->
+                        </div><!--end main-message-->
                     </header>
                 </div><!--end hero-overlay-->
             </div><!--end acasa-->
-         </div><!--end hero-image--> 
-              
-            
+         </div><!--end hero-image-->
+
+
 
             <section id="services" class="container">
                 <div class="row">
@@ -85,7 +85,7 @@
                     <div class="col-md-6">
                         <div class="row">
                             <div class="col-sm-6 caption flex rollIn animated">
-                                <a href="#" title="Recent post"><img src='assets/images/phones.jpg' class="serv" alt="Cursuri" /></a>    
+                                <a href="#" title="Recent post"><img src='assets/images/phones.jpg' class="serv" alt="Cursuri" /></a>
                                 <a href="#" title="Your title here"><h4>Best blog post</h4></a>
                                 <p>Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus.</p>
                                 <a href="#" title="See more" class="more">See more &nbsp;<i class="fa fa-angle-right"></i></a>
@@ -119,81 +119,81 @@
                         </div><!--end row-->
                     </div><!--end col-md-6-->
                 </div><!--end row-->
-            </section><!--end services-->  
-            
+            </section><!--end services-->
+
     <section id="features">
         <div class="container">
             <div class="title">
                 <h2 class="flex fadeInUp animated">The best features</h2>
                 <p class="description flex fadeInUp animated">With features engineered from best practices used by leading property management companies worldwide.</p>
             </div><!--end title-->
-           
+
                 <div class="row">
                     <div class="col-md-4 caption flex zoomInDown animated">
                         <i class="fa fa-paint-brush"></i>
                         <h3>Design wit psd files</h3>
-                        <p>Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra eu libero sit amet quam egestas sempe</p>          
-                    </div><!--end col-md-4-->    
-                
+                        <p>Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra eu libero sit amet quam egestas sempe</p>
+                    </div><!--end col-md-4-->
+
                 <div class="col-md-4 caption flex zoomInDown animated">
                         <i class="fa fa-coffee"></i>
                         <h3>Support & coffee</h3>
-                        <p>Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat erat volutpat.</p>          
-                </div><!--end col-md-4-->    
-                
+                        <p>Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat erat volutpat.</p>
+                </div><!--end col-md-4-->
+
                 <div class="col-md-4 caption flex zoomInDown animated">
                     <i class="fa fa-keyboard-o"></i>
                         <h3>Clean coded</h3>
-                        <p>Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.</p>         
-                </div><!--end col-md-4-->   
+                        <p>Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.</p>
+                </div><!--end col-md-4-->
 
             </div><!--end row-->
             </div><!--end container-->
-        </section>  
-         
-    <section id="info">        
+        </section>
+
+    <section id="info">
             <div class="zig-zag container">
                 <div class="row">
                     <div class="col-md-6">
-                        <img src='assets/images/akita.jpg' class="serv flex flipInX animated" alt="Flexible" />
+                        <img src='assets/images/login.png' class="serv flex flipInX animated" alt="Flexible" />
                     </div><!--end col-md-7-->
-                    
+
                     <div class="col-md-5 col-md-push-1">
-                        <h2 class="flex fadeInRight animated">Responsiveness - you bet</h2>
-                        <p class="flex fadeInRight animated">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+                        <h2 class="flex fadeInRight animated">Disenio Responsive</h2>
+                        <p class="flex fadeInRight animated">Disenio de unidad minera Milpo Atacocha, desarrollado con tecnologias responsive web/ movil : ionic del lado del cliente y nodejs del lado del servidor aunque no nos pagaron.
                         </p>
-                    </div><!--end col-md-5--> 
-                    
+                    </div><!--end col-md-5-->
+
                 </div><!--end row-->
             </div><!--end zig-zag-->
-            
+
             <div class="zig-zag container">
                 <div class="row">
                     <div class="col-md-5">
                         <h2 class="flex fadeInLeft animated">Easily changing colors</h2>
                         <p class="flex fadeInLeft animated">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
                         </p>
-                    </div><!--end col-md-5--> 
-                    
+                    </div><!--end col-md-5-->
+
                     <div class="col-md-6 col-md-offset-1">
                         <img src='assets/images/lens.jpg' class="serv flex flipInX animated" alt="Flexible" />
                     </div><!--end col-md-5-->
-                    
+
                 </div><!--end row-->
             </div><!--end zig-zag-->
         </section><!--end info-->
-               
-            
+
+
         <section id="plan">
             <div class="container">
                     <div class="title">
                         <h2 class="flex fadeInDown animated">Simple Pricing</h2>
                         <p class="description flex fadeInDown animated">Choose what fits you best</p>
                     </div><!--end title-->
-            
-                    <div class="row"> 
+
+                    <div class="row">
                         <div class="col-md-6">
-                            <div class="row">    
+                            <div class="row">
                                 <div class="price-table col-sm-6 flex slideInUp animated">
                                     <i class="fa fa-user"></i>
                                     <h6>Personal</h6>
@@ -221,10 +221,10 @@
                                         <li>Awesome widgets installed</li>
                                     </ul>
                                 </div><!--price-table-->
-                                
-                            </div><!--end row-->    
-                        </div><!--end col-sm-6-->        
-        
+
+                            </div><!--end row-->
+                        </div><!--end col-sm-6-->
+
 
 
                         <div class="col-md-6">
@@ -257,21 +257,21 @@
                                         <li>7 features installed</li>
                                     </ul>
                                 </div><!--price-table-->
-                            </div><!--end row--> 
-                        </div><!--end col-sm-6-->        
+                            </div><!--end row-->
+                        </div><!--end col-sm-6-->
 
-                    
+
                 </div><!--end row-->
-            </div><!--end container-->                                       
-        </section><!--end plan-->     
-            
+            </div><!--end container-->
+        </section><!--end plan-->
 
-    
+
+
         <section id="testimonials">
                 <div class="container">
-                    <div class="caption">   
+                    <div class="caption">
                     <div class="row">
-                        <div class="col-md-12">                            
+                        <div class="col-md-12">
                             <div id="myCarousel" class="carousel slide" data-interval="4000">
 
                                 <div class="carousel-inner">
@@ -317,14 +317,14 @@
 
                             </div><!--end myCarousel-->
 
-                        </div><!--end col-md-12-->  
+                        </div><!--end col-md-12-->
 
-                    </div><!--end row--> 
-                    </div><!--end caption-->                            
+                    </div><!--end row-->
+                    </div><!--end caption-->
                 </div><!--end container-->
         </section><!--end testimonials-->
-                                        
-                                                                       
+
+
 
         <section id="contact" class="marketing-action">
             <div class="overlay">
@@ -333,25 +333,25 @@
                      <p class="description-image flex fadeInRight  animated">
                         See how Flexible can become your perfect website.
                      </p>
-                     <a href="#" class="btn btn-cta-primary btn-cta-buy" role="button">Buy it for 15$</a>      
-                </div><!--end text-->   
-            </div><!--end overlay-->    
+                     <a href="#" class="btn btn-cta-primary btn-cta-buy" role="button">Buy it for 15$</a>
+                </div><!--end text-->
+            </div><!--end overlay-->
         </section><!--end marketing-action-->
-                                           
 
-       <div id="footer">                                      
+
+       <div id="footer">
        <div class="container">
             <div class="row">
                     <div class="footer-section col-md-1">
                         <a href="#" title="Home is where the heart is" rel="home"><img src='assets/images/flexible-logo-footer.png' class="logo-footer flex fadeInUp animated" alt="Home is where the heart is"></a>
                     </div><!--end footer-section-->
-                    
+
                     <div class="footer-section col-md-8 col-sm-9 col-xs-12">
                             <p class="copyright flex fadeInUp animated">&#169; Copyright 2016 <strong>Flexible.</strong>&nbsp;All rights reserved.</p>
                     </div><!--end footer-section-->
-                        
-                        
-                    <div class="footer-section col-md-3 col-xs-12">    
+
+
+                    <div class="footer-section col-md-3 col-xs-12">
                         <div class="social copyright flex fadeInUp animated">
                             <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
                             <a href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
