@@ -170,13 +170,13 @@
             <div class="zig-zag container">
                 <div class="row">
                     <div class="col-md-5">
-                        <h2 class="flex fadeInLeft animated">Easily changing colors</h2>
-                        <p class="flex fadeInLeft animated">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+                        <h2 class="flex fadeInLeft animated">Desarrollo en Angularjs Ionic </h2>
+                        <p class="flex fadeInLeft animated">Viendo las necesidades del mercado las tecnologias respaldadas por empresas grandes como la de google facebook nos proveen de herramientas capaces de agilizar el trabajo . Se productivo desde el primer dia .
                         </p>
                     </div><!--end col-md-5-->
 
                     <div class="col-md-6 col-md-offset-1">
-                        <img src='assets/images/lens.jpg' class="serv flex flipInX animated" alt="Flexible" />
+                        <img src='assets/images/inspecciones.png' class="serv flex flipInX animated" alt="Flexible" />
                     </div><!--end col-md-5-->
 
                 </div><!--end row-->
