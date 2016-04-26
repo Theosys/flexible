@@ -62,9 +62,9 @@
                             </div><!--end row-->
                         <div class="main-message">
                             <div class="container">
-                                <h1 class="flex fadeInUp animated">Flexible Landing page</h1>
+                                <h1 class="flex fadeInUp animated">Theosys Consulting</h1>
                                 <p class="description-image flex fadeInUp animated">
-                                  A simple and modern one page business theme for your company
+                                  Somos Theosys, No olvidamos, no perdonamos.
                                 </p>
                                 <a class="btn btn-cta-primary btn-cta-blue flex fadeInUp animated" href="#" role="button">Call to action</a>
                             </div><!--end container-->
