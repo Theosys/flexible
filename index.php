@@ -87,14 +87,14 @@
                             <div class="col-sm-6 caption flex rollIn animated">
                                 <a href="#" title="Recent post"><img src='assets/images/phones.jpg' class="serv" alt="Cursuri" /></a>
                                 <a href="#" title="Your title here"><h4>Best blog post</h4></a>
-                                <p>Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus.</p>
+                                <p>Analisis de tu negocio adaptandonos a tus requerimientos para sentar las bases y enfocarnos en tu modelkado.</p>
                                 <a href="#" title="See more" class="more">See more &nbsp;<i class="fa fa-angle-right"></i></a>
                             </div><!--end col-sm-6-->
 
                             <div class="col-sm-6 caption flex rollIn animated">
                                 <a href="#" title="Your title here"><img src='assets/images/chair.jpg' class="serv" alt="Cursuri" /></a>
                                 <a href="#" title="Your title here"><h4>Standard blog post</h4></a>
-                                <p>Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus.</p>
+                                <p>Disenios web responsive donde tu negocio no siga sienbdo mediocre , apuesta por nosotros</p>
                                 <a href="#" title="See more" class="more">See more &nbsp;<i class="fa fa-angle-right"></i></a>
                             </div><!--end col-sm-6-->
                         </div><!--end row-->
@@ -106,14 +106,14 @@
                             <div class="col-sm-6 caption flex rollIn animated">
                                 <a href="#" title=""><img src='assets/images/camera-photos.jpg' class="serv" alt="Cursuri" /></a>
                                 <a href="#" title="Your title here"><h4>Simple blog post</h4></a>
-                                <p>Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus.</p>
+                                <p>Haciendo el codigo de la manera mas legible para ser escalable de acuerdo a tus espectativas.</p>
                                 <a href="#" title="See more" class="more">See more &nbsp;<i class="fa fa-angle-right"></i></a>
                             </div><!--end col-sm-6-->
 
                             <div class="col-sm-6 caption flex rollIn animated">
                                 <a href="#" title="Your title here"><img src='assets/images/brochure.jpg' class="serv" alt="Cursuri" /></a>
                                 <a href="#" title="Your title here"><h4>Another blog post</h4></a>
-                                <p>Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus.</p>
+                                <p>Mantenerlo en produccion con un mantenimiento ideal y responsable protegiendote de ataques intrusos que pueden afectar tu negocio</p>
                                 <a href="#" title="See more" class="more">See more&nbsp;<i class="fa fa-angle-right"></i></a>
                             </div><!--end col-sm-6-->
                         </div><!--end row-->
@@ -155,12 +155,12 @@
             <div class="zig-zag container">
                 <div class="row">
                     <div class="col-md-6">
-                        <img src='assets/images/akita.jpg' class="serv flex flipInX animated" alt="Flexible" />
+                        <img src='assets/images/login.png' class="serv flex flipInX animated" alt="Flexible" />
                     </div><!--end col-md-7-->
 
                     <div class="col-md-5 col-md-push-1">
-                        <h2 class="flex fadeInRight animated">Responsiveness - you bet</h2>
-                        <p class="flex fadeInRight animated">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+                        <h2 class="flex fadeInRight animated">Disenio Responsive</h2>
+                        <p class="flex fadeInRight animated">Disenio de unidad minera Milpo Atacocha, desarrollado con tecnologias responsive web/ movil : ionic del lado del cliente y nodejs del lado del servidor aunque no nos pagaron.
                         </p>
                     </div><!--end col-md-5-->
 
@@ -170,13 +170,13 @@
             <div class="zig-zag container">
                 <div class="row">
                     <div class="col-md-5">
-                        <h2 class="flex fadeInLeft animated">Easily changing colors</h2>
-                        <p class="flex fadeInLeft animated">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+                        <h2 class="flex fadeInLeft animated">Desarrollo en Angularjs Ionic </h2>
+                        <p class="flex fadeInLeft animated">Viendo las necesidades del mercado las tecnologias respaldadas por empresas grandes como la de google facebook nos proveen de herramientas capaces de agilizar el trabajo . Se productivo desde el primer dia .
                         </p>
                     </div><!--end col-md-5-->
 
                     <div class="col-md-6 col-md-offset-1">
-                        <img src='assets/images/lens.jpg' class="serv flex flipInX animated" alt="Flexible" />
+                        <img src='assets/images/inspecciones.png' class="serv flex flipInX animated" alt="Flexible" />
                     </div><!--end col-md-5-->
 
                 </div><!--end row-->
