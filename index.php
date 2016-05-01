@@ -2,7 +2,7 @@
 <html lang="en-US">
 <head>
     <meta charset="UTF-8">
-    <title>Flexible - a cute landing page</title>
+    <title>Theosys Consulting</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=9, IE=edge" />
     <meta name='robots' content='noindex,follow' />
@@ -21,13 +21,13 @@
             <div class="hero-overlay">
                 <header id="site-header">
                     <div class="row">
-                        <nav id="top-nav" class="navbar navbar-default navbar-fixed-top navbar-scroll-changed">
+                        <nav id="top-nav" class="navbar navbar-default navbar-fixed-top navbar-scroll-changed fixed-header">
 
                           <div class="container">
 
                             <div class="col-md-2 col-sm-1 col-xs-12">
                                     <div class="branding">
-                                      <a href="#" title="Home is where the heart is" rel="home"><img id="logo" src="assets/images/flexible-logo.png" alt="Home is where the heart is"></a>
+                                      <a href="#" title="Home is where the heart is" rel="home"><img id="logo" src="assets/images/flexible-logo-active.png" alt="Home is where the heart is"></a>
                                     </div><!--end branding-->
 
                                     <div class="navbar-header">
@@ -46,7 +46,7 @@
                                     <div class="menu-primary-menu-container">
                                         <ul id="menu-main-top-navigation" class="menu nav navbar-nav navbar-right">
                                             <li><a href="#home">Inicio</a></li>
-                                            <li><a href="#services">Equipo</a></li>
+                                            <li><a href="#services">Blog</a></li>
                                             <li><a href="#features">Servicios</a></li>
                                             <li><a href="#plan">Portafolio</a></li>
                                             <li><a href="#contact">Contacto</a></li>
@@ -64,9 +64,9 @@
                             <div class="container">
                                 <h1 class="flex fadeInUp animated">Theosys Consulting</h1>
                                 <p class="description-image flex fadeInUp animated">
-                                  Somos Theosys, No olvidamos, no perdonamos.
+                                  Por emprendedores, para emprendedores.
                                 </p>
-                                <a class="btn btn-cta-primary btn-cta-blue flex fadeInUp animated" href="#" role="button">Call to action</a>
+                                <a class="btn btn-cta-primary btn-cta-blue flex fadeInUp animated" href="#" role="button">Apuntate!</a>
                             </div><!--end container-->
                         </div><!--end main-message-->
                     </header>
@@ -79,8 +79,8 @@
             <section id="services" class="container">
                 <div class="row">
                     <div class="title">
-                        <h2 class="flex fadeInUp animated">Recent Posts</h2>
-                        <p class="description flex fadeInUp animated">We have a lot to work, so we must take care of our employees</p>
+                        <h2 class="flex fadeInUp animated">Ultimos artículos</h2>
+                        <p class="description flex fadeInUp animated">Porque el conocimiento es para todos.</p>
                     </div><!--end title-->
                     <div class="col-md-6">
                         <div class="row">

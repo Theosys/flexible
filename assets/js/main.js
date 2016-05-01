@@ -1,7 +1,7 @@
 /**
  * Fixed Header
  */
-function fixedHeader() {
+/*function fixedHeader() {
     var logoactive = 'assets/images/flexible-logo-active.png';
     var logowhite = 'assets/images/flexible-logo.png';
     var setHeader = function() {
@@ -13,7 +13,7 @@ function fixedHeader() {
             $('#logo').attr('src', logowhite);
         }
 
-            
+
         if  ($(window).width() <= 762) {
             $('#logo').attr('src', logoactive);
         }
@@ -24,7 +24,7 @@ function fixedHeader() {
     } catch (error) {
         console.log(error);
     }
-}
+}*/
 
 /**
  * Menu Hightlight
@@ -46,7 +46,7 @@ function menuHightlight() {
 
         /**
          * This part handles the highlighting functionality.
-         * We use the scroll functionality again, some array creation and 
+         * We use the scroll functionality again, some array creation and
          * manipulation, class adding and class removing, and conditional testing
          */
         var aChildren = $("#menu-main-top-navigation a"); // find the a children of the list items
