@@ -124,8 +124,8 @@
     <section id="features">
         <div class="container">
             <div class="title">
-                <h2 class="flex fadeInUp animated">The best features</h2>
-                <p class="description flex fadeInUp animated">With features engineered from best practices used by leading property management companies worldwide.</p>
+                <h2 class="flex fadeInUp animated">Somos lo que somos!</h2>
+                <p class="description flex fadeInUp animated">Aunque no nos entendamos, pero tenemos amor al codigo.</p>
             </div><!--end title-->
 
                 <div class="row">
