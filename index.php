@@ -46,7 +46,7 @@
                                     <div class="menu-primary-menu-container">
                                         <ul id="menu-main-top-navigation" class="menu nav navbar-nav navbar-right">
                                             <li><a href="#home">Inicio</a></li>
-                                            <li><a href="#services">Blog</a></li>
+                                            <li><a href="http://blog.theosys.pe/">Blog</a></li>
                                             <li><a href="#features">Servicios</a></li>
                                             <li><a href="#plan">Portafolio</a></li>
                                             <li><a href="#contact">Contacto</a></li>
