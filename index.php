@@ -347,7 +347,7 @@
                     </div><!--end footer-section-->
 
                     <div class="footer-section col-md-8 col-sm-9 col-xs-12">
-                            <p class="copyright flex fadeInUp animated">&#169; Copyright 2016 <strong>Flexible.</strong>&nbsp;All rights reserved.</p>
+                            <p class="copyright flex fadeInUp animated">&#169; Copyright 2016 <strong>Theosys.</strong>&nbsp;Todos los derechos reservados.</p>
                     </div><!--end footer-section-->
 
 
