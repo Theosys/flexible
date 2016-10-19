@@ -10,7 +10,8 @@
     <link rel='stylesheet' id='bootstrap-css'  href='assets/css/bootstrap.min.css?ver=4.4.1' type='text/css' media='screen' />
     <link href='https://fonts.googleapis.com/css?family=Poppins:400,300,500,600,700&subset=latin,devanagari,latin-ext' rel='stylesheet' type='text/css'>
     <link rel='stylesheet' id='fontawesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css?ver=4.4.1' type='text/css' media='all' />
-    <link rel='stylesheet' id='style-css'  href='assets/css/new-style.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='style-css'  href='assets/css/new.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='edit-css'  href='assets/css/edit.css' type='text/css' media='all' />
     <link rel="stylesheet" href="assets/css/animate.css" type='text/css' media='all'>
     <script type='text/javascript' src='assets/js/jquery.js'></script>
 </head>
@@ -27,7 +28,7 @@
 
                             <div class="col-md-2 col-sm-1 col-xs-12">
                                     <div class="branding">
-                                      <a href="#" title="Home is where the heart is" rel="home"><img id="logo" src="assets/images/flexible-logo-active.png" alt="Home is where the heart is"></a>
+                                      <a href="#" title="Home is where the heart is" rel="home"><img id="logo" src="assets/images/logo-50x50.png" alt=""><h1 class="logo-theosys">Theosys</h1></a>
                                     </div><!--end branding-->
 
                                     <div class="navbar-header">
