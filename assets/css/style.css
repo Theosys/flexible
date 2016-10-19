@@ -1,4 +1,4 @@
-/* 
+/*
 Theme Name: Theecho
 Author: autor
 Version: 1.0
@@ -56,9 +56,9 @@ p {
     padding-bottom: 15px;
 }
 
-@font-face { 
-    font-family: 'FontAwesome'; 
-    src: local('FontAwesome'); 
+@font-face {
+    font-family: 'FontAwesome';
+    src: local('FontAwesome');
 }
 
 ul li {
@@ -133,7 +133,7 @@ img {
 
 
 a.more {
-    transition: all .2s ease-in-out; 
+    transition: all .2s ease-in-out;
     font-size: 14px !important;
     margin-top: 10px;
     font-weight: 400;
@@ -157,7 +157,7 @@ a.more i.fa {
 
 a.more i.fa:hover {
     color: #009be3;
-    
+
 }
 
 
@@ -199,7 +199,7 @@ a.more i.fa:hover {
     border-bottom: 1px solid #fff;
 }
 
- 
+
 .fixed-header {
     background: #fff !important;
     box-shadow: 0 6px 4px -4px rgba(0,0,0,0.1);
@@ -210,7 +210,7 @@ a.more i.fa:hover {
      opacity: 1;
  }
 
-.fixed-header .navbar-default .navbar-nav .activenav a { 
+.fixed-header .navbar-default .navbar-nav .activenav a {
     opacity: 1;
 }
 
@@ -227,7 +227,7 @@ a.more i.fa:hover {
     padding-bottom: 15px;
  }
 
- 
+
 
 
 /***************** END NAV ***************/
@@ -252,14 +252,14 @@ a.more i.fa:hover {
     margin-bottom: 70px;
 }
 
-.hero-image #home {   
-    background: url("../images/home-hero-1.jpg");
+.hero-image #home {
+    background: url("../images/home-hero.jpg");
     position: relative;
     width: 100%;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    overflow: hidden;  
+    overflow: hidden;
 }
 
 
@@ -326,7 +326,7 @@ p.description-image {
 }
 
 .zig-zag-right {
-      
+
 }
 
 .zig-zag-right p {
@@ -340,7 +340,7 @@ p.description-image {
 
 
 
-#features { 
+#features {
     margin-bottom: 70px;
     padding-top: 50px;
     background-color: #f6f8fa;
@@ -438,7 +438,7 @@ span.author img {
 
 .price-table {
     padding-top: 40px;
-    padding-bottom: 30px;  
+    padding-bottom: 30px;
     text-align: center;
     background-color: #fff;
     border: 1px solid #d6d6d6;
@@ -495,7 +495,7 @@ span.dollar {
 }
 
 .price-table:hover * {
-    color: #fff !important;  
+    color: #fff !important;
 }
 
 /************ PRICE TABLE ***************/
@@ -515,13 +515,13 @@ span.dollar {
         background: #fff !important;
         box-shadow: 0 6px 4px -4px rgba(0,0,0,0.1);
     }
-    
+
     .navbar-default .navbar-nav >li >a {
         color: #828282;
         opacity: 1;
         line-height: 20px !important;
     }
-    
+
     .navbar-fixed-top .navbar-toggle .icon-bar {
         background-color: #222 !important;
     }
@@ -531,7 +531,7 @@ span.dollar {
     p.description-image {
         padding: 0px !important;
     }
-    
+
 }
 
 
@@ -541,13 +541,13 @@ span.dollar {
     	text-align: center;
     	margin-bottom: 40px;
      }
-    
+
     .zig-zag-right * {
         text-align: center !important;
     	margin-bottom: 20px;
     }
 
-    
+
     .carousel-indicators {
         position: relative;
         clear: both;
@@ -569,12 +569,12 @@ span.dollar {
     .footer-section {
         text-align: center !important;
     }
-    
-    
+
+
     .social {
         float: none !important;
     }
-    
+
     .marketing-action h1 {
         font-size: 35px;
         font-weight: 400;
@@ -670,22 +670,22 @@ span.dollar {
 
 
 #footer {
-     margin-bottom: 0px;   
+     margin-bottom: 0px;
      background-color: #222222;
      padding-top: 50px;
 }
 
 .footer-section {
-    margin-bottom: 30px;   
+    margin-bottom: 30px;
 }
 
 
 img.logo-footer {
-    margin-top: -15px;   
+    margin-top: -15px;
 }
 
 p.copyright {
-    float: left; 
+    float: left;
     margin-left: -30px;
 }
 
@@ -695,7 +695,7 @@ p.copyright {
 }
 
 .social a {
-    padding-right: 15px;  
+    padding-right: 15px;
     font-size: 19px;
 }
 

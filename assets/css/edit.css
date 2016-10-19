@@ -1,0 +1,10 @@
+.logo-theosys {
+  font-family: "Diavlo";
+  font-style: bold;
+  font-weight: bold;
+  src: local("?"), url("/assets/fonts/Diavlo_BOLD.otf") format("otf"), url("/fonts/Diavlo_BOLD.otf") format("truetype");
+  font-size: 2.3em;
+  color: #14906e;
+  display: inline;
+  margin-left: 3px;
+}

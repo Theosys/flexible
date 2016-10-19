@@ -3,20 +3,22 @@ Theme Name: Flexible
 Author: Andrei Dorin
 Version: 1.0
 */
+/*Variables*/
+/*Variables*/
 body {
   font-family: "Poppins", Arial sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
   color: #828282;
-  background-color: #fff;
-  margin: 0;
-  padding: 0;
+  background-color: #ffffff;
+  margin: 0px;
+  padding: 0px;
   overflow-x: hidden;
   -webkit-font-smoothing: antialiased;
 }
 ul {
   margin: 0;
-  padding: 0;
+  padding: 0px;
   list-style: none;
 }
 h1 {
@@ -57,7 +59,7 @@ a {
   color: #828282;
 }
 a:hover {
-  color: #0785f2;
+  color: #14906e;
 }
 a h4:hover {
   text-decoration: underline;
@@ -84,9 +86,9 @@ img {
   margin-bottom: 70px;
 }
 .btn-cta-primary {
-  color: #fff!important;
-  padding: 15px 30px 15px 30px!important;
-  border-radius: 0;
+  color: #ffffff !important;
+  padding: 15px 30px 15px 30px !important;
+  border-radius: 0px;
   font-size: 12px;
   letter-spacing: 2px;
   transition: all 0.2s ease-in-out;
@@ -96,26 +98,26 @@ img {
   font-weight: 500;
 }
 .btn-cta-blue {
-  background-color: #0785f2;
+  background-color: #14906e;
 }
 .btn-cta-blue:hover {
   background-color: #fff;
-  color: #0785f2 !important;
+  color: #14906e !important;
 }
 a.more {
   transition: all 0.2s ease-in-out;
-  font-size: 14px!important;
+  font-size: 14px !important;
   margin-top: 10px;
   font-weight: 400;
 }
 a.more:hover * {
-  color: #0785f2;
+  color: #14906e;
   padding-left: 10px;
 }
 a.more i.fa {
-  font-size: 15px!important;
-  font-weight: 700;
-  border: 0;
+  font-size: 15px !important;
+  font-weight: bold;
+  border: none;
   cursor: pointer;
   margin-right: 5px;
   transition: all 0.2s ease-in-out;
@@ -123,15 +125,16 @@ a.more i.fa {
 a.more i.fa:hover {
   color: #009be3;
 }
+/***************** NAV ***************/
 #top-nav {
   transition: all 0.2s linear 0s;
 }
 .navbar-fixed-top {
   background-color: transparent;
-  border: 0;
+  border: none;
 }
 .navbar-fixed-top li a {
-  color: #fff;
+  color: #ffffff;
   font-size: 14px;
   font-weight: 400;
   transition: color 0.3s, border 0.3s;
@@ -148,7 +151,7 @@ a.more i.fa:hover {
   border-bottom: 1px solid #fff;
 }
 .fixed-header {
-  background: #fff!important;
+  background: #fff !important;
   box-shadow: 0 6px 4px -4px rgba(0, 0, 0, 0.1);
 }
 .fixed-header .navbar-nav > li > a {
@@ -156,22 +159,24 @@ a.more i.fa:hover {
   opacity: 1;
 }
 .fixed-header .navbar-nav .activenav a {
-  color: #222!important;
-  border-bottom: 1px solid #0785f2;
+  color: #222222 !important;
+  border-bottom: 1px solid #14906e;
 }
 .fixed-header .navbar-nav .activenav a:hover {
-  border-bottom: 1px solid #0785f2;
+  border-bottom: 1px solid #14906e;
 }
 .fixed-header .navbar-nav > li > a:hover {
   border-bottom: 1px solid #111;
 }
 #top-nav.navbar-scroll-changed {
-  background: 0;
+  background: none;
   margin: 0 auto;
   border: 0;
   padding-top: 15px;
   padding-bottom: 15px;
 }
+/***************** END NAV ***************/
+/************ INDEX ***************/
 .hero-overlay {
   background: rgba(0, 0, 0, 0.4);
   height: 600px;
@@ -196,18 +201,18 @@ a.more i.fa:hover {
   position: absolute;
   text-align: center;
   top: 50%;
-  transform: translatey(-50%);
-  -o-transform: translatey(-50%);
-  -webkit-transform: translatey(-50%);
-  -moz-transform: translatey(-50%);
-  -ms-transform: translatey(-50%);
+  transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
   width: 100%;
 }
 .main-message h1 {
   font-family: "Poppins", Arial sans-serif;
   font-weight: 400;
   font-size: 60px;
-  color: #fff;
+  color: #ffffff;
 }
 .title {
   text-align: center;
@@ -222,17 +227,17 @@ a.more i.fa:hover {
 }
 p.description {
   font-size: 14px;
-  font-weight: 400;
-  text-align: center!important;
+  font-weight: normal;
+  text-align: center !important;
   padding-bottom: 5px;
   max-width: 450px;
   margin: 0 auto;
 }
 p.description-image {
-  color: #fff;
+  color: #ffffff;
   font-size: 17px;
   font-weight: 400;
-  letter-spacing: .4px;
+  letter-spacing: 0.4px;
   padding: 15px 230px;
   line-height: 25px;
 }
@@ -255,13 +260,13 @@ p.description-image {
 }
 #features i.fa {
   font-size: 50px;
-  color: #0785f2;
+  color: #14906e;
   position: relative;
   text-align: center;
   margin-bottom: 10px;
 }
 #features h3 {
-  color: #222;
+  color: #222222;
 }
 #features .caption p {
   padding-left: 10px;
@@ -273,7 +278,7 @@ p.description-image {
 }
 #testimonials .carousel-indicators .active {
   background-color: transparent;
-  border: 2px solid #0785f2;
+  border: 2px solid #14906e;
 }
 .carousel-inner .item {
   min-height: 320px;
@@ -281,7 +286,7 @@ p.description-image {
 #testimonials .carousel-inner blockquote {
   font-size: 30px;
   line-height: 40px;
-  margin: 0;
+  margin: 0px;
   font-weight: 300;
   color: #111;
 }
@@ -295,7 +300,7 @@ a.company img {
 }
 span.author {
   font-size: 13px;
-  color: #828282!important;
+  color: #828282 !important;
   font-weight: 500;
 }
 span.author img {
@@ -312,8 +317,10 @@ span.author img {
   border: 2px solid #fff;
 }
 #services a img:hover {
-  border: 2px solid #0785f2;
+  border: 2px solid #14906e;
 }
+/************ INDEX ***************/
+/************ PRICE TABLE ***************/
 #plan {
   padding-bottom: 70px;
 }
@@ -325,7 +332,7 @@ span.author img {
   border: 1px solid #d6d6d6;
   transition: all 0.2s ease-in-out;
   cursor: pointer;
-  margin-left: 0;
+  margin-left: 0px;
 }
 .price-table i.fa {
   color: #d6d6d6;
@@ -344,7 +351,7 @@ span.price {
 }
 span.dollar {
   vertical-align: top;
-  font-size: 17px!important;
+  font-size: 17px !important;
   display: inline-block;
   margin-top: 15px;
   color: #222;
@@ -357,39 +364,41 @@ span.dollar {
   line-height: 37px;
 }
 .price-table:hover {
-  background-color: #0785f2;
+  background-color: #14906e;
   margin-top: -20px;
   z-index: 10;
-  border: 0;
+  border: none;
 }
 .price-table:hover * {
   color: #fff !important;
 }
+/************ PRICE TABLE ***************/
+/**************** MEDIA QUERIES ******************/
 @media (max-width: 768px) {
   .hero-overlay {
     height: 450px;
   }
   .navbar-fixed-top {
-    background: #fff!important;
+    background: #fff !important;
     box-shadow: 0 6px 4px -4px rgba(0, 0, 0, 0.1);
   }
   .navbar-default .navbar-nav > li > a {
     color: #828282;
     opacity: 1;
-    line-height: 20px!important;
-    margin-left: 0 !important;
+    line-height: 20px !important;
+    margin-left: 0px !important;
   }
   .navbar-fixed-top .navbar-toggle .icon-bar {
     background-color: #757d8a !important;
   }
   .navbar-fixed-top .navbar-nav .activenav a {
     color: #222;
-    border-bottom: 1px solid #0785f2;
+    border-bottom: 1px solid #14906e;
   }
 }
 @media (max-width: 990px) {
   p.description-image {
-    padding: 0 !important;
+    padding: 0px !important;
   }
 }
 @media (max-width: 990px) {
@@ -398,7 +407,7 @@ span.dollar {
     margin-bottom: 40px;
   }
   .zig-zag-right * {
-    text-align: center!important;
+    text-align: center !important;
     margin-bottom: 20px;
   }
   .carousel-indicators {
@@ -410,7 +419,7 @@ span.dollar {
 }
 @media (max-width: 450px) {
   .social {
-    float: left!important;
+    float: left !important;
     margin-bottom: 20px;
     margin-top: -15px;
   }
@@ -423,8 +432,8 @@ span.dollar {
     text-align: center !important;
   }
   p.copyright {
-    float: none!important;
-    margin-left: 0 !important;
+    float: none !important;
+    margin-left: 0px !important;
   }
   .social {
     float: none !important;
@@ -436,14 +445,17 @@ span.dollar {
 }
 @media (max-width: 768px) {
   .price-table {
-    margin: 30px !important;
+    margin: 30px!important;
   }
 }
+/******** HERO IMAGE ************/
 @media (max-width: 600px) {
   .main-message h1 {
     font-size: 40px !important;
   }
 }
+/******** HERO IMAGE ************/
+/**************** END MEDIA QUERIES **************/
 .marketing-action {
   position: relative;
   background: url('../images/pencil.jpg');
@@ -466,34 +478,35 @@ span.dollar {
   position: absolute;
   text-align: center;
   top: 48%;
-  transform: translatey(-50%);
-  -o-transform: translatey(-50%);
-  -webkit-transform: translatey(-50%);
-  -moz-transform: translatey(-50%);
-  -ms-transform: translatey(-50%);
+  transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
   width: 100%;
   padding-left: 15px;
   padding-right: 15px;
 }
 .marketing-action h1 {
-  margin-bottom: 15px!important;
-  margin-top: 0;
+  margin-bottom: 15px !important;
+  margin-top: 0px;
 }
 .marketing-action .text h1 {
-  color: #fff;
+  color: #ffffff;
 }
 .btn-cta-buy {
-  background-color: #0785f2;
-  margin-top: 0;
+  background-color: #14906e;
+  margin-top: 0px;
 }
 .btn-cta-buy:hover {
   background-color: #fff;
-  color: #0785f2!important;
-  margin-top: 0;
+  color: #14906e !important;
+  margin-top: 0px;
 }
+/************ FOOTER ***************/
 #footer {
-  margin-bottom: 0;
-  background-color: #222;
+  margin-bottom: 0px;
+  background-color: #222222;
   padding-top: 50px;
 }
 .footer-section {
@@ -514,4 +527,4 @@ p.copyright {
   padding-right: 15px;
   font-size: 19px;
 }
-/* This beautiful CSS-File has been crafted with LESS (lesscss.org) and compiled by simpLESS (wearekiss.com/simpless) */
+/************ FOOTER ***************/
